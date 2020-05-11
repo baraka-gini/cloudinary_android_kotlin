@@ -1,0 +1,4 @@
+rootProject.name='Cloudinary Android Kotlin'
+include ':app'
+include ':download'
+include ':core'
